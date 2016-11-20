@@ -1,0 +1,325 @@
+@media screen and (min-width:768px){
+    .header-top .list-inline  a{
+        width: 30px;
+        height: 30px;
+        font-size: 14px;
+    }
+
+    .header-top .list-inline  li a .fa{
+        line-height: 30px;
+    }
+    .logo{
+        display:none;
+    }
+    .header-middle{
+        display: block;
+    }
+    .headerMiddleBorder{
+        border-bottom: 1px solid #ccc;
+        padding-bottom: 20px;
+    }
+    .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+        height: 750px;
+    }
+    .carousel-control .icon-prev, .carousel-control .icon-next, .carousel-control .fa-arrow-left, .carousel-control .fa-arrow-right {
+        font-size: 24px;
+        padding: 20px;
+    }
+
+    .carousel-caption{
+        top:40%;
+    }
+    .carousel-caption h4{
+        font-size: 36px;
+    }
+    .carousel-caption h1{
+        font-size: 80px;
+    }
+    .leftTrainingContent{
+        border-right: 1px solid #ccc;
+    }
+    .classes .workout{
+        float:left;
+        width: 20%;  
+    }
+    .teachersTitle p{
+        margin-bottom: 75px;
+    }
+    .brian figure img{
+        width: 384px;
+    }
+
+    .anna figure img{
+        width: 384px;
+    }
+    .smith figure img{
+        width: 384px;
+    }
+    .teachers figure {
+        position: relative;
+        margin-bottom: 0px;
+    }
+    .teachers .hoverTeachers h4{
+        margin-top: 190px;
+    }
+    .item .shopHover{
+
+        display: none;
+    }
+    .item:hover .shopHover{
+        display: block;
+    }
+    .carousel-caption h1{
+        font-weight: bolder;
+        font-size: 40px;
+    }
+    .text-left{
+        text-align:left;
+    }
+    .text-right{
+        text-align: right;
+        float: right
+    }
+    footer h4{
+        border-bottom: 1px solid #37475c;
+        width: 150px;
+        padding: 10px;
+        margin: 0;
+    }
+    footer article{
+        border-left: 1px solid #37475c;
+        height: 280px;
+        margin-bottom: 0px;
+    }
+    footer .list-inline  a{
+        width: 40px;
+        height: 40px;
+        font-size: 14px;
+    }
+    footer .list-inline  li a .fa{
+        line-height: 40px;
+    }
+    .classesPage .smallDivacesSpace{
+        margin-top: 0px;
+    }
+    .classesTitle article{
+        padding: 150px 0;
+    }
+    .pagination{
+        margin-bottom: 100px;
+    }
+    .apply .updateCart{
+        float: right;
+    }
+    .apply .input-group{
+        width: 300px;
+    }
+    .apply .updateCart{
+        margin-top: 0px;
+    }
+    .showOrderHistory{
+        display: none;
+    }
+    .hidingArticle{
+        float: right;
+        display: block;
+    }
+    .placeOrder{
+        margin-bottom: 50px;
+    }
+    .tag{
+        margin-bottom: 30px;
+    }
+    .formChekout{
+        float: left !important;
+    }
+    .tag .photograph{
+        font-size: 14px; 
+    }
+    .socialIcons .fa{
+        font-size: 14px;
+    }
+    .comments .zenzj{
+        margin-right: 70px;
+    }
+    .comments .secondMedia{
+        margin-left: 50px;
+    }
+    .comments .secondMedia .replay a{
+        margin-left: 50px;
+    }
+    .comments .formMediaBody textarea{
+        height: 200px;  
+    }
+    .formMediaLeft{
+        display: table-cell;
+        margin-bottom: 0px;
+    }
+    .formMediaBody{
+        display: table-cell;
+    }
+    .comments figure{
+        width: 100px;
+        height: 100px;
+    }
+    .recipes .textContent h4{
+        font-size: 24px;
+    }
+    .recipes .textContent{
+        padding: 15px;
+    }
+    .classesTitle article{
+        padding: 25px 0;
+    }
+    .classesTitle {     
+        margin-bottom: 50px;
+    }
+    .bottomContent .fa-comments-o{
+        margin-left: 10px;
+    }
+    .listCatergories li{
+        margin:20px 0;
+        background: url(../css/style-images/categoriesLine.png) no-repeat center bottom;
+        padding-bottom: 10px;  
+    }
+    .categories .numberCategories{
+        font-size: 10px;
+    }
+    .listCatergories a{
+        font-size: 10px;
+    }
+    .text-content h1{
+        font-size: 22px;
+        margin:40px 0;
+    }
+    .text-content a{
+        margin-bottom: 30px;
+    }
+    .borderCol{
+        border-right: 1px solid #ccc;
+        height: 260px;
+    }
+    .login-register .forgot-password{
+        font-size: 14px;
+    }
+    .error img.main-image{
+        display: block;
+    }
+    .oops-404 h1{
+        font-size: 150px;
+    }
+    .error .sorry{
+        font-size: 55px;
+    }
+    img.main-image{
+        height: 657px;
+    }
+    .error .logoErrorImage{
+        width: 250px;
+        margin-top: 50px;
+    }
+    .error .form-group{
+        width: 300px;
+    }
+    #fancybox-content {
+        width: 550px !important;
+        height: 455px !important;
+    }
+    #fancybox-left-ico {
+        background-image: none;
+    }
+    #fancybox-right-ico {
+        background-image: none;
+    }
+    .productPage .item .fa-shopping-cart{
+        padding: 20px;
+        height: 50px;
+    }
+    .productPage .item .fa-search-plus{
+        top:80px;
+        padding: 20px;
+        height: 50px;
+    }
+}
+@media screen and (min-width: 992px){
+    .carousel-caption h1{
+        font-size: 100px;
+    }
+    .classes .workout{
+        width: 20%;
+        padding: 0 10px;  
+    }
+    .aboutMe{
+        padding:15px;
+    }
+    .aboutMe figure{
+        width: 200px;
+        height:200px;
+    }
+    .aboutMe .socialIcons .fa{
+        font-size: 18px;
+        padding: 0 10px;
+    }
+    .listCatergories a{
+        font-size: 12px;
+    }
+    .categories .numberCategories{
+        font-size: 12px;
+        margin-top: 5px;
+    }
+    .topRelatedPost figure{
+        width: 100px;
+        height: 100px;
+    }
+    .classesTitle article{
+        padding: 50px 0;
+    }
+    .classesTitle {     
+        margin-bottom: 80px;
+    }
+    .bottomContent .fa-link {
+        position: absolute;
+        right: 0px;
+        bottom: 0px;
+        background: #10bcf4;
+        width: 35px;
+        height: 35px;
+        line-height: 40px;
+        text-align: center;
+        font-size: 20px !important;
+    }
+    .text-content h1{
+        font-size: 30px;
+        margin:40px 0;
+    }
+    .oops-404{
+        width: 350px;
+    }
+    .oops-404 h1{
+        font-size: 200px;
+    }
+    .oops-404 span{
+        top: 30px;
+        left: 25px;
+    }
+
+
+}
+@media screen and (min-width: 1200px){
+    .tagCloud .tagCloudContent a{
+        display: inline;
+        text-align: center;
+        margin-bottom: 0px;
+        font-size: 13px;
+    }
+    .tagCloudContent p{
+        margin-bottom: 30px;
+    }
+    .list-inline > li {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .error .form-group{
+        width: 400px;
+    }
+}
